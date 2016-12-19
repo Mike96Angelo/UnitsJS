@@ -1,0 +1,29 @@
+{
+  "name": "unitsjs",
+  "version": "0.1.0",
+  "description": "UnitsJS is a simple library for build and converting units of measurement.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mike96Angelo/UnitsJS.git"
+  },
+  "keywords": [
+    "unit",
+    "units",
+    "measure",
+    "measurements",
+    "convert"
+  ],
+  "author": "Michaelangelo Jong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mike96Angelo/UnitsJS/issues"
+  },
+  "homepage": "https://github.com/Mike96Angelo/UnitsJS#readme",
+  "dependencies": {
+    "generate-js": "^3.1.2"
+  }
+}
